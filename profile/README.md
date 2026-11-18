@@ -66,4 +66,6 @@ Our work builds on Emek Demir's earlier contributions to community pathway infor
 
 For software questions and bug reports, use the relevant repository's issue tracker. For research and collaboration inquiries, see [Emek Demir's OHSU profile](https://www.ohsu.edu/people/emek-demir-phd).
 
+[Emek Demir · LinkedIn](https://www.linkedin.com/in/emekdemir/) · [Andrew J. Ashford · LinkedIn](https://www.linkedin.com/in/andrew-ashford-589376133/)
+
 See our [public organization members](https://github.com/orgs/Pathways-Omics/people).
