@@ -22,17 +22,19 @@ Our current work explores cancer cell states, tumor heterogeneity, and treatment
 
 | Project | Focus |
 | :--- | :--- |
-| [UniVI](https://github.com/Pathways-Omics/UniVI) | Mixture-of-experts variational autoencoders for multimodal single-cell integration, cross-modal reconstruction, and reference-to-query mapping. |
-| [UniVII](https://github.com/Pathways-Omics/UniVII) | An extension of UniVI with modular infrastructure for additional data types and analyses, and model development. |
-| [scOPE](https://github.com/Pathways-Omics/scOPE) | Learning driver-associated expression programs in bulk tumors and evaluating their transfer to single-cell transcriptomes. |
+| [UniVI](https://github.com/Ashford-A/UniVI) | Mixture-of-experts variational autoencoders for multimodal single-cell integration, cross-modal reconstruction, and reference-to-query mapping. |
+| [UniVII](https://github.com/Ashford-A/UniVII) | An extension of UniVI with modular infrastructure for additional data types and analyses, and model development. |
+| [scOPE](https://github.com/Ashford-A/scOPE) | Learning driver-associated expression programs in bulk tumors and evaluating their transfer to single-cell transcriptomes. |
 | [MiroSCOPE](https://github.com/ohsu-cedar-comp-hub/qupath_monaillabel_plugin) | AI-assisted annotation of functional tissue units in digital pathology, with a QuPath interface and [MONAI Label backend](https://github.com/ohsu-cedar-comp-hub/monailabel_cedar_app). |
 | [Priori / regulon-enrichment](https://github.com/Pathways-Omics/regulon-enrichment) | Predicting transcription factor activity from RNA-seq using prior biological knowledge and regulatory relationships. |
 | [PRECEPTS1](https://github.com/Pathways-Omics/PRECEPTS1) | Workflows using biological feature trees and machine learning to predict cancer-associated mutation status from RNA-seq. |
 | [CausalPath](https://github.com/PathwayAndDataAnalysis/causalpath) | Inferring candidate causal signaling relationships from molecular profiles using curated pathway knowledge. |
 
-See each repository for installation, examples, data requirements, licensing, and citation instructions. Related software and earlier project repositories are also available through [OHSU Computational Biology](https://github.com/ohsu-comp-bio), Andrew's work is also available via [his GitHub page](https://github.com/Ashford-A).
+UniVI, UniVII, and scOPE are primarily developed in [Andrew Ashford's repositories](https://github.com/Ashford-A), linked above. Use those repositories for current releases, documentation, and issue reporting. Copies under Pathways-Omics may not contain the latest updates.
 
-Try the [UniVI RNA–protein explorer](https://huggingface.co/spaces/ashford-andrew/UniVI-explorer) and [UniVI RNA–ATAC Multiome explorer](https://huggingface.co/spaces/ashford-andrew/UniVI-Multiome-explorer) for interactive examples. Organization copies and forks may differ from their upstream repositories; check the relevant upstream releases and issue trackers for current development.
+See each repository for installation, examples, data requirements, licensing, and citation instructions. Related software and earlier project repositories are also available through [OHSU Computational Biology](https://github.com/ohsu-comp-bio).
+
+Try the [UniVI RNA–protein explorer](https://huggingface.co/spaces/ashford-andrew/UniVI-explorer) and [UniVI RNA–ATAC Multiome explorer](https://huggingface.co/spaces/ashford-andrew/UniVI-Multiome-explorer) for interactive examples.
 
 ## Foundations: BioPAX and Pathway Commons
 
