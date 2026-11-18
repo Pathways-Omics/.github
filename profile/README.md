@@ -12,14 +12,13 @@ Pathways+Omics brings together research led by Emek Demir and collaborators at O
 - **Regulatory and signaling networks.** Inferring transcription factor activity and generating mechanistic hypotheses from gene expression, proteomic, and phosphoproteomic measurements.
 - **Cancer-associated molecular programs.** Learning the expression patterns associated with driver alterations and investigating when these patterns transfer across cohorts and from bulk tumors to individual cells.
 - **Multimodal single-cell learning.** Developing generative models that integrate RNA, chromatin accessibility, protein, and other measurements to study cell states across partially observed datasets.
-
 - **Computational imaging.** Developing tools for digital pathology and quantitative analysis of tissue organization.
 
 ## Current directions
 
 Our current work explores cancer cell states, tumor heterogeneity, and treatment response through multimodal data analysis, computational imaging, and interpretable machine learning. We are also developing approaches for studying biological variation across cells, tissues, and patient cohorts.
 
-## Software in this organization
+## Software
 
 | Project | Focus |
 | :--- | :--- |
@@ -28,6 +27,7 @@ Our current work explores cancer cell states, tumor heterogeneity, and treatment
 | [scOPE](https://github.com/Pathways-Omics/scOPE) | Learning driver-associated expression programs in bulk tumors and evaluating their transfer to single-cell transcriptomes. |
 | [Priori / regulon-enrichment](https://github.com/Pathways-Omics/regulon-enrichment) | Predicting transcription factor activity from RNA-seq using prior biological knowledge and regulatory relationships. |
 | [PRECEPTS1](https://github.com/Pathways-Omics/PRECEPTS1) | Workflows using biological feature trees and machine learning to predict cancer-associated mutation status from RNA-seq. |
+| [MiroSCOPE](https://github.com/ohsu-cedar-comp-hub/qupath_monaillabel_plugin) | AI-assisted annotation of functional tissue units in digital pathology, with a QuPath interface and [MONAI Label backend](https://github.com/ohsu-cedar-comp-hub/monailabel_cedar_app). |
 
 See each repository for installation, examples, data requirements, licensing, and citation instructions. Related software and earlier project repositories are also available through [OHSU Computational Biology](https://github.com/ohsu-comp-bio).
 
