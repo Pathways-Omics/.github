@@ -29,7 +29,7 @@ Our current work explores cancer cell states, tumor heterogeneity, and treatment
 | [Priori / regulon-enrichment](https://github.com/Pathways-Omics/regulon-enrichment) | Predicting transcription factor activity from RNA-seq using prior biological knowledge and regulatory relationships. |
 | [PRECEPTS1](https://github.com/Pathways-Omics/PRECEPTS1) | Workflows using biological feature trees and machine learning to predict cancer-associated mutation status from RNA-seq. |
 
-See each repository for installation, examples, data requirements, licensing, and citation instructions. Related software and earlier project repositories are also available through [OHSU Computational Biology](https://github.com/ohsu-comp-bio).
+See each repository for installation, examples, data requirements, licensing, and citation instructions. Related software and earlier project repositories are also available through [OHSU Computational Biology](https://github.com/ohsu-comp-bio), Andrew's work is also available via [his GitHub page](https://github.com/Ashford-A).
 
 ## Foundations: BioPAX and Pathway Commons
 
